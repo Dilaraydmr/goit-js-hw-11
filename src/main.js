@@ -2,6 +2,11 @@
 import axios from "axios";
 import iziToast from "izitoast";
 import "izitoast/dist/css/iziToast.min.css";
+// Dokümantasyonda belirtilen import
+import SimpleLightbox from "simplelightbox";
+// Stil importu
+import "simplelightbox/dist/simple-lightbox.min.css";
+
 
 const form = document.querySelector('.app-form');
 const gallery = document.querySelector('.gallery');
