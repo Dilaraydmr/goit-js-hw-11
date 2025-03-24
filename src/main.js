@@ -67,7 +67,7 @@ form.addEventListener('submit', event => {
 
 
             });
-            const lightBox = new SimpleLightBox('.gallery a', {
+            const lightBox = new SimpleLightbox('.gallery a', {
                 
 
             });
